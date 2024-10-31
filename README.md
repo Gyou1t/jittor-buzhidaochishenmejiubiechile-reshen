@@ -24,7 +24,9 @@ jittor-不知道吃什么就别吃了-记图挑战热身赛
 执行以下命令安装 python 依赖
 
 sudo apt install python3.7-dev libomp-dev
+
 python3.7 -m pip install jittor
+
 python3.7 -m jittor.test.test_example
 
 
