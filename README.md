@@ -1,5 +1,6 @@
-# Jittor 记图挑战热身赛 baseline
-
+# Jittor 记图挑战热身赛 
+jittor-不知道吃什么就别吃了-记图挑战热身赛
+![image](result.png)
 
 ## 简介
 本项目包含记图挑战热身赛的代码。
